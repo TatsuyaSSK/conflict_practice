@@ -1,4 +1,4 @@
-# メインブランチでの変更追加
+# 変更追加
 
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
 
